@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Small Iron Meteor",
+    "diameter": 10,
+    "mass": 3000,
+    "composition": "Iron",
+    "density": 7800,
+    "velocity": 17000,
+    "angle": 45
+  },
+  {
+    "id": 2,
+    "name": "Medium Stony Meteor",
+    "diameter": 50,
+    "mass": 150000,
+    "composition": "Stone",
+    "density": 3500,
+    "velocity": 20000,
+    "angle": 60
+  },
+  {
+    "id": 3,
+    "name": "Large Nickel-Iron Meteor",
+    "diameter": 100,
+    "mass": 4000000,
+    "composition": "Nickel-Iron",
+    "density": 8000,
+    "velocity": 25000,
+    "angle": 30
+  },
+  {
+    "id": 4,
+    "name": "Massive Rocky Asteroid",
+    "diameter": 500,
+    "mass": 150000000,
+    "composition": "Stone",
+    "density": 2700,
+    "velocity": 30000,
+    "angle": 45
+  },
+  {
+    "id": 5,
+    "name": "Giant Metallic Asteroid",
+    "diameter": 1000,
+    "mass": 4000000000,
+    "composition": "Iron",
+    "density": 7850,
+    "velocity": 35000,
+    "angle": 90
+  }
+]
